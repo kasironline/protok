@@ -1,3 +1,2 @@
-# protok
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/softres-jdkuvd)
+Develope by
+[https://www.fiverr.com/creativitas](https://www.fiverr.com/creativitas)
