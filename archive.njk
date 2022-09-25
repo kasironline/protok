@@ -1,12 +1,12 @@
 ---
 layout: layouts/home.njk
-permalink: /posts/
+permalink: /aplikasi/
 eleventyNavigation:
-  key: Archive
+  key: Applikasi
   order: 2
+title: Aplikasi program toko
 ---
 
-<h1>Archive</h1>
-
+<h3><a href="{{page.url}}">{{ title }}</a></h3>
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}

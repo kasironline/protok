@@ -1,21 +1,29 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Program Toko",
+  "url": "https://programtoko.pages.dev",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Solusi software toko, aplikasi program toko untuk mesin kasir toko minimarket barcode lengkap siap pakai.",
+  "gst": "WH5yK5pEky5qND2FOW3_hvm3VlPkjRtV731y81BcsTc",
+  "language": "id",
+  "locale": "id_ID",
+  "tweet": "@hockeycomp",
+  "video": "https://www.youtube.com/watch?v=x7fLl8QzjU8",
+  "image": "https://mesinkasironline.web.app/img/mesinkasironlineapp2.jpg",
+  "icon": "https://www.11ty.dev/img/favicon.png",
+  "robots": "index, follow",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Solusi software toko, aplikasi program toko untuk mesin kasir toko minimarket barcode lengkap siap pakai.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://programtoko.pages.dev/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://programtoko.pages.dev/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "creativitas",
+    "email": "axcora@gmail.com",
+    "url": "https://www.fiverr.com/creativitas/create-your-custom-website-and-app"
   }
 }
