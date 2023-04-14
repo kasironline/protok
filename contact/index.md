@@ -4,7 +4,7 @@ title: Contact Program Toko
 content: Dan hubungi team kami jika membutuhkan bantuan konsultasi dan informasi mengenai aplikasi toko, program software toko ,maupun kebutuhan untuk mesin kasir set lengkap barcode dalam mendukung bisnis retail minimarket toko.
 description: Pembuatan aplikasi toko, program toko, software toko, dan website toko online shop.
 video: https://www.youtube.com/embed/mm-oHbkulWA
-whatsapp: https://wa.me/6285646104747
+whatsapp: https://wa.me/62895339403223
 call: tel:+62895339403223
 mail: mailto:axcora@gmail.com
 eleventyNavigation:
